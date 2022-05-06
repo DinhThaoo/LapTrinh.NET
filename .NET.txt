@@ -1,0 +1,7 @@
+Trạng thái trong từng form 
+
+1. Thông tin tài khoản
+   + 0-> nhân viên, 1-> quản lý 
+
+2. Quản lý bán hàng 
+   + 0-> 
